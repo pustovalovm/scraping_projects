@@ -9,7 +9,7 @@ The projects included:
    Useful for current job.
 3) Project 3 - the crawler that parses books information from a scraping training website http://books.toscrape.com \
 It extracts all the links to the book pages, visits the pages and scrapes basic book info.
-
+4) Project 4 - the script parses quotes from a JS-based website https://quotes.toscrape.com/js/.
 
 # Проекты по веб-скрейпингу
 ## Автор - Михаил Пустовалов
@@ -22,3 +22,4 @@ It extracts all the links to the book pages, visits the pages and scrapes basic 
    Полезно в текущей работе.
 3) Проект 3 - сбор данных с тренировочного сайта с книгами http://books.toscrape.com/\
    Работает по принципу краулера, то есть извлекает ссылки на страницы книг с главной, переходит на них и забирает информацию о книге оттуда.
+4) Проект 4 - парсинг цитат с тренировочного сайта, основанного на JavaScript https://quotes.toscrape.com/js/ 
